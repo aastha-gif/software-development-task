@@ -4,30 +4,32 @@ This repository contains a collection of Software Development projects built usi
 
 ## 📌 Projects Included
 
-### 1️⃣ Loan EMI Calculator
-- Java-based application
-- Calculates EMI using standard financial formula
-- Demonstrates mathematical logic and user input handling
-
-### 2️⃣ API Fetch – Random Joke App
+### 1️⃣ API Fetch – Random Joke App
 - Java HttpClient
 - Fetches data from a public API
 - Parses JSON response and displays formatted output
 
-### 3️⃣ Simple Blog App
-- HTML, CSS, JavaScript
-- LocalStorage based CRUD operations
-- Add, view, and delete posts
+### 2️⃣ Loan EMI Calculator
+- Java-based application
+- Calculates EMI using standard financial formula
+- Demonstrates mathematical logic and user input handling
+
+
+### 3️⃣ Contact Book Application
+- Add, search, and delete contacts
+- LocalStorage for persistent storage
+- DOM manipulation and filtering
+
 
 ### 4️⃣ Number Guessing Game
 - JavaScript-based interactive game
 - Random number generation
 - Tracks attempts and displays hints
 
-### 5️⃣ Contact Book Application
-- Add, search, and delete contacts
-- LocalStorage for persistent storage
-- DOM manipulation and filtering
+### 5️⃣ Simple Blog App
+- HTML, CSS, JavaScript
+- Local Storage based CRUD operations
+- Add, view, and delete posts
 
 ---
 
